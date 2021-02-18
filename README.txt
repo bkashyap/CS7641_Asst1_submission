@@ -20,7 +20,7 @@ Here is the link to the entire repository containing the data and notebooks: htt
 
 How to run:
 1. Clone repository from github:https://github.com/bkashyap/CS7641_Asst1_submission
-2. requirements.txt contains all dependencies (The major ones are pandas, numpy, jupyter, seaborn, matplotlib). Create Conda Python3 environment using requirements.txt by running conda install --name asst1 --file requirements.txt
-3. Run jupyter-notebook
+2. requirements.txt contains all dependencies (The major ones are pandas, numpy, jupyter, seaborn, matplotlib). Create Python3 environment using requirements.txt by running "pip3 install -r requirements.txt" while inside project directory
+3. Run jupyter-notebook on a terminal
 4. Open localhost:8888 on your browser and navigate and open WineQuality.ipynb or BreastCancer.ipynb
 5. If you need to run the code you can run individual code blocks by pressing shift + enter
